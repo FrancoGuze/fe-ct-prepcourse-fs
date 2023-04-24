@@ -239,8 +239,7 @@ function continueStatement(num) {
    // Tu código:
    let array = [];
    for(i=0; i<10; i++){
-     
-      if (i === 5){
+     if (i === 5){
          continue;
       }
       num = num + 2;
